@@ -1,0 +1,34 @@
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrKayit.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.exe.config
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.exe
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.pdb
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.exe
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.pdb
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FormBolumler.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmAnaForm.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrListe.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrDüzenle.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmAdminGiriş.resources
+C:\Users\EXCALIBUR\source\repos\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmYonetici.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.exe.config
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.exe
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\bin\Debug\YurtOtoSistemi.pdb
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.AssemblyReference.cache
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FormBolumler.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmAdminGiriş.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmAnaForm.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrDüzenle.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrKayit.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmOgrListe.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.FrmYonetici.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.Properties.Resources.resources
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.GenerateResource.cache
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.exe
+C:\Users\yahac\OneDrive\Masaüstü\kyk otomasyon\YurtOtoSistemi\YurtOtoSistemi\obj\Debug\YurtOtoSistemi.pdb
